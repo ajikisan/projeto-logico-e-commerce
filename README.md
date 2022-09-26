@@ -1,3 +1,4 @@
+[ecommerce.zip](https://github.com/ajikisan/projeto-logico-e-commerce/files/9642169/ecommerce.zip)
 ### Desafio Construindo seu Primeiro Projeto Lógico de Banco de Dados E-COMMERCE
 <p>Aluna: Mirian Ajiki Molicawa </p>
 <p>Digital Innovation One </p>
